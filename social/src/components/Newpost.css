@@ -1,0 +1,77 @@
+.container{
+    background-color: rgb(220, 207, 193);
+    border-radius: 50px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 1000px;
+    height: 800px;
+}
+.header{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 30px;
+}
+.profile{
+    position: relative;
+    background-color: rgb(122, 92, 92);
+    border-radius: 90px;
+    width: 170px;
+    height: 170px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.name{
+    margin-left: 260px;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-top: 65px;
+}
+.box-1{
+    background-color: rgb(242, 240, 235);
+    border-radius: 30px;
+    position: relative;
+    width: 600px;
+    height: 150px;
+    margin-left: 330px;
+}
+.text-1{
+    text-align: center;
+    padding-top: 65px;
+    font-size: 1.2rem;
+}
+.box-2{
+    background-color: rgb(242, 240, 235);
+    border-radius: 30px;
+    position: relative;
+    width: 600px;
+    height: 250px;
+    margin-top: 30px;
+    margin-left: 330px;
+}
+.plus{
+    padding-top: 100px;
+    padding-left: 200px;  
+}
+.text-2{
+    padding-left: 270px;
+    font-size: 1.2rem;
+}
+.button{
+    background-color: rgb(242, 240, 235);
+    border: none;
+    border-radius: 20px;
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-left: 570px;
+}
+.button:hover{
+    background-color: rgb(130, 88, 247);
+    color: aliceblue;
+}
